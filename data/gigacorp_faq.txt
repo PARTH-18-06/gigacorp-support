@@ -1,0 +1,79 @@
+SECTION 1: SHIPPING POLICIES
+
+Q: Which countries does GigaCorp currently ship to?
+A: GigaCorp currently ships to the United States, Canada, the United Kingdom, Germany, Australia, Japan, and India. Orders to countries outside this list are not accepted through the website and must be arranged through a business sales representative.
+
+Q: How much does standard shipping cost in the United States?
+A: Standard shipping within the United States costs USD 6.99 for orders under USD 50. Orders of USD 50 or more qualify for free standard shipping.
+
+Q: How long does delivery take for orders sent to Canada?
+A: Standard delivery to Canada usually takes 6 to 10 business days. Express delivery to Canada takes 2 to 4 business days and costs CAD 18.00.
+
+Q: How much does it cost to ship to Germany?
+A: Shipping to Germany costs EUR 7.50 for Economy International (7-12 business days) or EUR 14.90 for Priority International (3-5 business days). Customs duties, if applicable, are the responsibility of the recipient.
+
+Q: Does GigaCorp offer expedited shipping in the United States?
+A: Yes. Two-Day shipping in the United States costs USD 14.99 and Next-Day shipping costs USD 24.99. Orders must be placed before 2:00 PM Eastern Time, Monday through Friday, to be processed the same day.
+
+Q: Are customs duties and import taxes included in international shipping charges?
+A: No. For orders shipped to Canada, Germany, Australia, Japan, and India, customs duties, VAT, GST, and other import charges are not included in the checkout shipping total and must be paid by the customer at delivery if assessed by local authorities.
+
+SECTION 2: RETURN AND REFUND PROCESS
+
+Q: What is GigaCorp's standard return window?
+A: Most items may be returned within 30 calendar days of the delivery date. Returns requested on day 31 or later are automatically declined unless the item is covered by a warranty claim or shipping damage exception.
+
+Q: Are there any items that cannot be returned?
+A: Yes. Opened software license cards, customized enterprise hardware, and downloadable digital products are non-returnable. Hygiene accessories may only be returned if the factory seal is unbroken.
+
+Q: Is there a return shipping fee?
+A: For customers in the United States, returns for defective or incorrect items are free. For buyer's-remorse returns, a prepaid return label costs USD 5.95 and that amount is deducted from the refund. International customers are responsible for return shipping unless the item arrived damaged.
+
+Q: How long does it take to receive a refund?
+A: After the returned item reaches the GigaCorp warehouse, inspection takes 3 business days. Approved refunds are issued to the original payment method within 5 business days after inspection. Most card issuers then post the refund within an additional 2 to 7 business days.
+
+Q: Can a customer exchange an item instead of returning it?
+A: Direct exchanges are available only for the same product in a different color or size and must be requested within 15 calendar days of delivery. If the replacement item is out of stock, the original order is refunded instead.
+
+Q: What should a customer do if the package arrives damaged?
+A: The customer should contact support within 7 calendar days of delivery and include the order number plus at least 2 photos of the damaged packaging and product. GigaCorp will review the claim within 2 business days and, if approved, will send a replacement or full refund.
+
+SECTION 3: BUSINESS HOURS AND CONTACT
+
+Q: What are GigaCorp customer support hours?
+A: Live customer support is available Monday through Friday from 8:00 AM to 8:00 PM Eastern Time, Saturday from 10:00 AM to 6:00 PM Eastern Time, and Sunday from 12:00 PM to 4:00 PM Eastern Time.
+
+Q: When is phone support available?
+A: Phone support is available Monday through Friday from 9:00 AM to 6:00 PM Eastern Time. Phone lines are closed on Saturdays and Sundays.
+
+Q: What is the main customer support email address?
+A: Customers can contact the support team at support@gigacorp.example. Email inquiries are typically answered within 24 hours on business days.
+
+Q: What phone number should customers call for order issues?
+A: Customers in the United States and Canada should call +1-800-555-0148 for order issues. Business customers outside North America should email enterprise@gigacorp.example to request a regional callback.
+
+Q: Does GigaCorp observe any holiday closures?
+A: Yes. Live chat and phone support are closed on January 1, July 4, Thanksgiving Day, and December 25. Email tickets submitted on those dates are answered on the next business day.
+
+Q: Where is GigaCorp's primary support office located?
+A: GigaCorp's primary support office is located at 2500 Harbor Plaza, Suite 400, Austin, Texas 78701, United States.
+
+SECTION 4: SERVICE TIERS AND MEMBERSHIP
+
+Q: What membership tiers does GigaCorp offer?
+A: GigaCorp offers four membership tiers: Basic, Plus, Pro, and Enterprise.
+
+Q: What benefits are included in the Basic tier?
+A: Basic is free and includes access to the online help center, standard email support, and order history for up to 12 months. Basic members do not receive shipping discounts or priority service.
+
+Q: What does the Plus tier cost and include?
+A: Plus costs USD 9.99 per month or USD 99 per year. It includes free standard shipping in the United States, 5 percent off accessories, and priority email responses within 12 business hours.
+
+Q: What benefits are included in the Pro tier?
+A: Pro costs USD 29.99 per month or USD 299 per year. It includes all Plus benefits, free two-day shipping in the United States, one free buyer's-remorse return label per month, dedicated chat support, and early access to new product launches 48 hours before the public release.
+
+Q: What is included in the Enterprise tier?
+A: Enterprise plans start at USD 499 per month for up to 10 users. Enterprise members receive a dedicated account manager, onboarding sessions, invoiced billing terms net 30, quarterly usage reviews, and guaranteed first-response support within 2 business hours from 7:00 AM to 7:00 PM Eastern Time on weekdays.
+
+Q: Can customers upgrade or cancel a membership at any time?
+A: Yes. Upgrades take effect immediately and any prorated charge appears on the next invoice. Cancellations take effect at the end of the current billing cycle, and annual plans are non-refundable after 14 calendar days from the renewal date.
